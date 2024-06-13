@@ -48,7 +48,7 @@ Tkinter library (standard with Python)
 
 Clone the repository from GitHub.
 
-Install the required dependencies using pip: pip install requests beautifulsoup4 pandas.
+Install the required dependencies using pip: pip install requests beautifulsoup4 pandas openpyxl.
 
 Run the program using Python: python scholar_scraper.py.
 
